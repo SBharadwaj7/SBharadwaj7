@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SBharadwaj7
 - 👀 I’m interested in developing code 
-- 💞️ I’m looking to collaborate on Angular, Ionic, Android, JavaScript, Java
+- 💞️ I’m looking to collaborate on Angular, Ionic, JavaScript, Android, iOS, Java
 - 📫 How to reach me sbharadwaj227@gmail.com
 
 <!---
